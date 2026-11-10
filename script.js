@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const cityNameDisplay = document.getElementById("city-name");
   const temperatureDisplay = document.getElementById("temperature");
   const descriptionDisplay = document.getElementById("description");
-  const errorMessage = document.getElementById("error-messag");
+  const errorMessage = document.getElementById("error-message");
 
   
 
